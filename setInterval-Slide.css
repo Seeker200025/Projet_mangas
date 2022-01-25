@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://images6.alphacoders.com/853/853978.png");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+#imgSlide {
+    width: 380px;
+    height: 400px;
+    object-fit: contain;
+    background-color: rgb(41, 41, 41);
+    border-radius: 200px;
+    margin-left:655px;
+}
+h1 {
+    color: white;
+}
